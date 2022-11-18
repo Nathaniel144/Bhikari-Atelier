@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="117" viewBox="0 0 121 117">
+  <defs>
+    <filter id="Ellipse_3" x="0" y="0" width="118" height="117" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_106" data-name="Group 106" transform="translate(8.845 6)">
+    <g id="Group_105" data-name="Group 105" transform="translate(0.155)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Ellipse_3)">
+        <g id="Ellipse_3-2" data-name="Ellipse 3" transform="translate(9 6)" fill="#fff" stroke="#383838" stroke-width="3">
+          <ellipse cx="50" cy="49.5" rx="50" ry="49.5" stroke="none"/>
+          <ellipse cx="50" cy="49.5" rx="48.5" ry="48" fill="none"/>
+        </g>
+      </g>
+      <g id="Social_integration" data-name="Social integration" transform="translate(24.915 24.018)">
+        <path id="Path_61" data-name="Path 61" d="M9.358,50a3.358,3.358,0,1,0,3.358,3.358A3.358,3.358,0,0,0,9.358,50Zm0,5.037a1.679,1.679,0,1,1,1.679-1.679A1.679,1.679,0,0,1,9.358,55.037Z" transform="translate(-2.642 -9.701)"/>
+        <path id="Path_62" data-name="Path 62" d="M50.669,32.989a4.185,4.185,0,0,0-2.493-7.556H34.015l.853-6.827A5.877,5.877,0,0,0,29.034,12h-.367a2.519,2.519,0,0,0-2.5,2.207l-.393,3.137a9.25,9.25,0,0,1-9.161,8.09h-1.18V22.914a.84.84,0,0,0-.84-.84H2.84a.84.84,0,0,0-.84.84V53.139a.84.84,0,0,0,.84.84H14.594a.84.84,0,0,0,.84-.84V50.913c.023,0,.044.012.067.013a3.3,3.3,0,0,1,1.628.564,14.219,14.219,0,0,0,8.051,2.488h18.8a4.2,4.2,0,0,0,4.2-4.2,4.153,4.153,0,0,0-.924-2.6,4.17,4.17,0,0,0,2.36-6.91,4.168,4.168,0,0,0,1.056-7.287Zm.026-3.358a2.519,2.519,0,0,1-2.519,2.519H41.46a2.519,2.519,0,1,1,0-5.037h6.717A2.519,2.519,0,0,1,50.7,29.631ZM13.754,52.3H3.679V23.754H13.754Zm4.321-2.2a4.978,4.978,0,0,0-2.351-.84l-.291-.1V27.112h1.18a10.931,10.931,0,0,0,10.83-9.561l.392-3.137a.84.84,0,0,1,.834-.735h.364A4.2,4.2,0,0,1,33.2,18.4l-.967,7.754-.672,3.694a5.877,5.877,0,0,1-5.782,4.822H24.668a.84.84,0,1,0,0,1.679h1.111a7.556,7.556,0,0,0,7.434-6.2l.551-3.031h4.359a4.141,4.141,0,0,0,.84,5.877,4.147,4.147,0,0,0-.622,6.146A4.151,4.151,0,0,0,36.5,45.659a4.2,4.2,0,0,0-3.439,4.121,4.154,4.154,0,0,0,.861,2.519H25.18A12.54,12.54,0,0,1,18.075,50.1Zm25.9,2.2H37.262a2.519,2.519,0,1,1,0-5.037h6.717a2.519,2.519,0,1,1,0,5.037ZM46.5,45.583H39.781a2.519,2.519,0,1,1,0-5.037H46.5a2.519,2.519,0,1,1,0,5.037Zm1.679-6.717H41.46a2.519,2.519,0,1,1,0-5.037h6.717a2.519,2.519,0,1,1,0,5.037Z" transform="translate(-2 -3.604)"/>
+        <path id="Path_63" data-name="Path 63" d="M34.84,8.717a.84.84,0,0,0,.84-.84V2.84A.84.84,0,0,0,34,2.84V7.877A.84.84,0,0,0,34.84,8.717Z" transform="translate(-7.134 -2)"/>
+        <path id="Path_64" data-name="Path 64" d="M25.787,11.974a.84.84,0,1,0,1.187-1.187L23.413,7.225a.84.84,0,1,0-1.188,1.187Z" transform="translate(-5.205 -2.799)"/>
+        <path id="Path_65" data-name="Path 65" d="M17.84,20.679h5.037a.84.84,0,1,0,0-1.679H17.84a.84.84,0,1,0,0,1.679Z" transform="translate(-4.406 -4.727)"/>
+        <path id="Path_66" data-name="Path 66" d="M42.618,12.22a.839.839,0,0,0,.593-.246l3.562-3.562a.84.84,0,0,0-1.188-1.187l-3.561,3.562a.84.84,0,0,0,.594,1.433Z" transform="translate(-8.382 -2.799)"/>
+        <path id="Path_67" data-name="Path 67" d="M45,19.84a.84.84,0,0,0,.84.84h5.037a.84.84,0,0,0,0-1.679H45.84A.84.84,0,0,0,45,19.84Z" transform="translate(-8.899 -4.727)"/>
+      </g>
+    </g>
+    <g id="Group_98" data-name="Group 98" transform="translate(78.454 1.019)">
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="17" cy="17.5" rx="17" ry="17.5" transform="translate(-0.299 -0.019)"/>
+      <g id="Group_97" data-name="Group 97" transform="translate(9.514 14.175) rotate(-2)">
+        <line id="Line_3" data-name="Line 3" x2="3.551" y2="4.247" transform="translate(0 2.4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3.5"/>
+        <line id="Line_4" data-name="Line 4" y1="6.647" x2="10.561" transform="translate(3.551 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
