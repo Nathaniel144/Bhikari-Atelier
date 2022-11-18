@@ -1,0 +1,114 @@
+[
+  {
+    "arch": "Civic",
+    "PD": "Product",
+    "ID": "Mordern",
+    "SD": "Stadium",
+    "ENG": "Urban Planning"
+  },
+  {
+    "arch": "Cultural",
+    "PD": "furniture",
+    "ID": "Contemporary",
+    "SD": "Rigs",
+    "ENG": "LandScape"
+  },
+  {
+    "arch": "Education",
+    "PD": "Fashion",
+    "ID": "Minimalist",
+    "SD": "Exhibition",
+    "ENG": "Infrastructure"
+  },
+  {
+    "arch": "Healthcare",
+    "PD": "",
+    "ID": "Scandinavian",
+    "SD": "Malls",
+    "ENG": ""
+  },
+  {
+    "arch": "Hotel",
+    "ID": "Traditional",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Industrial",
+    "ID": "Transisitional",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Leisure",
+    "ID": "Bohemian",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Mixed Use",
+    "ID": "Rustic",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Offices",
+    "ID": "Shabby Chic",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Residential",
+    "ID": "Coastal",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Offices",
+    "ID": "",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Rental",
+    "ID": "",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Sport",
+    "ID": "",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Sustainable",
+    "ID": "",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Towers",
+    "ID": "",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  },
+  {
+    "arch": "Transport",
+    "ID": "",
+    "PD": "",
+    "SD": "",
+    "ENG": ""
+  }
+]

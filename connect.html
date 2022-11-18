@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bhikari Atelier|Your space, You.</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500;600;700&family=Montserrat:wght@500;700&family=Mulish:ital,wght@0,400;0,600;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/fontawesome.min.css" />
+    <link rel="stylesheet" href="css/custom.css" />
+  </head>
+  <body class="connect-page">
+    <header>
+      <!-- header icons(bars,logo,search) -->
+      <a href="#" class="bars mobile" id="nav-toggle">
+        <img src="assets/icons/bars.svg" />
+      </a>
+      <a href="index.html" class="logo">
+        <img src="assets/Icons/logo.svg" />
+      </a>
+      <!--X header icons(bars,logo,search) X-->
+
+      <!-- Navigation menu -->
+      <nav class="nav-content" id="nav-menu">
+        <!-- close navigation -->
+        <a href="#" class="nav-close mobile" id="nav-close">
+          <i class="fas fa-times"></i>
+        </a>
+        <!-- navigation menu list -->
+        <ul class="nav-list">
+          <li class="nav-item">
+            <a href="index.html" class="nav-link"
+              ><span class="mobile navcon"
+                ><i class="fas fa-home icon-nav"></i></span
+              >Home</a
+            >
+          </li>
+          <li class="nav-item">
+            <a href="connect.html" class="nav-link"
+              ><span class="mobile navcon"
+                ><i class="fas fa-link icon-nav"></i></span
+              >Connect</a
+            >
+          </li>
+          <li class="nav-item">
+            <a href="clients.html" class="nav-link"
+              ><span class="mobile navcon"
+                ><i class="fas fa-users icon-nav"></i></span
+              >Clients</a
+            >
+          </li>
+          <li class="nav-item">
+            <a href="about.html" class="nav-link"
+              ><span class="mobile navcon"
+                ><i class="fas fa-info-circle icon-nav"></i></span
+              >About</a
+            >
+          </li>
+          <li class="nav-item">
+            <a href="projects.html" class="nav-link"
+              ><span class="mobile navcon"
+                ><i class="fas fa-briefcase icon-nav"></i></span
+              >Projects</a
+            >
+          </li>
+        </ul>
+        <!-- Navigation social icons -->
+        <div class="nav-social mobile web">
+          <a href="#" class="nav-social-icons">
+            <i class="fab fa-behance icon-social"></i>
+          </a>
+          <a href="#" class="nav-social-icons">
+            <i class="fab fa-twitter icon-social"></i>
+          </a>
+          <a href="#" class="nav-social-icons">
+            <i class="fab fa-instagram icon-social"></i>
+          </a>
+        </div>
+        <!--X Navigation social icons X-->
+      </nav>
+      <!--X Navigation menu X-->
+    </header>
+    <section class="connect-section">
+      <div class="connect-head">
+        <h1 class="connect-heading-text anim0">
+          Let's get <br />
+          your Space <br />
+          Started
+        </h1>
+        <p class="connect-text anim0">
+          <span class="change-text">
+            Connect with us
+            <i class="fas fa-arrow-circle-right read-icon"></i>
+          </span>
+        </p>
+      </div>
+
+      <div class="connect-form">
+        <div class="card Gright">
+          <h1 class="card-heading">
+            Send us a <span class="change-text">message </span>
+          </h1>
+          <form>
+            <div class="form-control">
+              <label for="#"> Full Name </label>
+              <input type="text" name="name" abc- />
+            </div>
+            <div class="form-control">
+              <label for="#"> E-mail </label>
+              <input type="email" name="email" abc- />
+            </div>
+            <div class="form-control">
+              <label for="#"> Subject </label>
+              <input type="text" name="name" abc- />
+            </div>
+            <div class="form-control">
+              <label for="#"> Type a message here </label>
+              <textarea name="text" abc-></textarea>
+            </div>
+
+            <a href="connect-sent.html" type="submit" class="btn">
+              Send <i class="fas fa-arrow-circle-right read-icon"></i>
+            </a>
+          </form>
+        </div>
+      </div>
+
+      <div class="connect-info">
+        <p class="connect-info-text anim1">
+          <i class="fas fa-envelope"></i> info.bhikariatelier@gmail.com
+        </p>
+        <p class="connect-info-text anim1">
+          <i class="fas fa-phone-alt"></i> +234(0)8135984260
+        </p>
+        <p class="connect-info-text anim1">
+          <i class="fas fa-map-marker-alt"></i> Suite 4, Alibarka Plaza, Bodija
+          Ibadan Nigeria.
+        </p>
+      </div>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js"></script>
+
+    <script>
+      //gsap animation
+      gsap.from('.anim0', {
+        x: -50,
+        opacity: 0,
+        duration: 2,
+        stagger: 0.6,
+        ease: Power2.easeOut,
+      });
+      gsap.from('.anim1', {
+        x: -30,
+        opacity: 0,
+        duration: 1,
+        stagger: 0.6,
+        ease: Power3.easeOut,
+      });
+      gsap.from('.Gright', {
+        x: 250,
+        opacity: 0,
+        duration: 2.5,
+        ease: Power2.easeOut,
+      });
+    </script>
+
+    <script src="Scripts/app.js"></script>
+  </body>
+</html>
